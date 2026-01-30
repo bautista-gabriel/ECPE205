@@ -4,6 +4,7 @@ import java.awt.event.ActionListener;
 import javax.swing.*;
 import java.util.*;
 
+//infinite tictactoe
 
 public class tictactoe {
     public static void main(String[]args) {
